@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuyaJayvee
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html, Css and Javascript 
+- 🌱 I’m currently learning Html, Css, Javascript and Php 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
