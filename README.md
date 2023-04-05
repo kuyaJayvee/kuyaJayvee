@@ -1,44 +1,63 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jayvee. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://github.com/kennethsolomon)
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<h1 align="center">
+Hi 👋, I'm Kenneth Solomon
+</h1>
 
-**About me**
+<h3 align="center">
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=727E8A&width=790&lines=A+passionate+full+stack+developer+from+Sorsogon+City%2C+Philippines.;There+is+no+place+like+127.0.0.1;Real+Programmers+always+count+from+0.)](https://git.io/typing-svg)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+</h3>
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethsolomon&label=Profile%20views&color=0e75b6&style=flat" alt="kennethsolomon" /></p>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<p align="left"> <a href="https://twitter.com/mr_kensolomon" target="blank"><img src="https://img.shields.io/twitter/follow/mr_kensolomon?logo=twitter&style=for-the-badge" alt="mr_kensolomon" /></a></p>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- 🔭 I’m currently working on **Water Refilling Station System**
 
-#### Top Repositories
+- 🌱 I’m currently learning **Laravel, Vue.js, Nuxt**
+
+- 💬 Ask me about **Laravel, Vue.js, Nuxt and Girls**
+
+- 📫 How to reach me **kennethsolomon@pm.me**
+
+- ⚡ Fun fact **I love Hot Moms**
+
+## 🤝 Connect with me:
+<p align="left">
+<a href="https://fb.com/mr.kennethsolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.kennethsolomon" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.kennethsolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.kennethsolomon" height="30" width="40" /></a>
+<a href="https://twitter.com/mr_kensolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_kensolomon" height="30" width="40" /></a>
+</p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+## 🔧 Technologies
 
-<br />
-<br />
+![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,nodejs,vue,nuxtjs,bootstrap,mysql,postgres,redis,py,django,dotnet,vim,md,git,github,discord,heroku,linux,ps,pr,stackoverflow,vscode&theme=light)
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+---
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=kennethsolomon)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=kennethsolomon&show_icons=true&locale=en&layout=compact)](https://github.com/kennethsolomon)
+[![Kenneth Solomon Github Stats](https://github-readme-stats.vercel.app/api?username=kennethsolomon&show_icons=true&locale=en&count_private=true)](https://github.com/kennethsolomon) 
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kennethsolomon&)](https://github.com/kennethsolomon)
+
+</details>
+
+---
+
+## 🍀 Support me
+<p><a href="https://www.buymeacoffee.com/kennethsolomon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kennethsolomon" /></a></p><br><br>
