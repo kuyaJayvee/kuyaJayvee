@@ -2,7 +2,7 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://github.com/kennethsolomon)
 
 <h1 align="center">
-Hi 👋, I'm Kenneth Solomon
+Hi 👋, I'm Jayvee Villare
 </h1>
 
 <h3 align="center">
@@ -24,16 +24,16 @@ Hi 👋, I'm Kenneth Solomon
 
 - 💬 Ask me about **Laravel, Vue.js, Nuxt and Girls**
 
-- 📫 How to reach me **kennethsolomon@pm.me**
+<!-- - 📫 How to reach me **kennethsolomon@pm.me** -->
 
-- ⚡ Fun fact **I love Hot Moms**
+<!-- - ⚡ Fun fact **I love Hot Moms** -->
 
-## 🤝 Connect with me:
+<!-- ## 🤝 Connect with me:
 <p align="left">
 <a href="https://fb.com/mr.kennethsolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.kennethsolomon" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.kennethsolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.kennethsolomon" height="30" width="40" /></a>
 <a href="https://twitter.com/mr_kensolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_kensolomon" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 ## 🔧 Technologies
