@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Jayvee Villare
+Hi 👋, I'm Jayvee
 </h1>
 
 <h3 align="center">
@@ -8,13 +8,11 @@ Hi 👋, I'm Jayvee Villare
 
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on **Water Refilling Station System**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
 
 - 🌱 I’m currently learning **Laravel, Vue.js, Nuxt**
 
-- 💬 Ask me about **Laravel, Vue.js, Nuxt and Girls**
+- 💬 Ask me about **Laravel, Vue.js, Nuxt**
 
 
 ## 🔧 Technologies
