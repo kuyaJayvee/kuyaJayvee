@@ -12,7 +12,6 @@ Hi 👋, I'm Jayvee
 
 - 🌱 I’m currently learning **Laravel, Alpine js, Livewire**
 
-- 💬 Ask me about **Laravel, Vue.js, Nuxt**
 
 
 ## 🔧 Technologies
