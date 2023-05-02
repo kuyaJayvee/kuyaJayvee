@@ -10,7 +10,7 @@ Hi 👋, I'm Jayvee
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
 
-- 🌱 I’m currently learning **Laravel, Alpine js, livewire**
+- 🌱 I’m currently learning **Laravel, Alpine js, Livewire**
 
 - 💬 Ask me about **Laravel, Vue.js, Nuxt**
 
