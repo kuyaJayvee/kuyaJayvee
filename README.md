@@ -13,9 +13,10 @@ Hi 👋, I'm Jayvee
 - 🌱 I’m currently learning **Laravel, Alpine js, Livewire**
 
 
-
 ## 🔧 Technologies
 ---
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,vue,nuxtjs,bootstrap,mysql,md,git,github,stackoverflow,vscode&theme=light)
 
 ---
+
+![Jayvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuyaJayvee&show_icons=true&theme=synthwave)
