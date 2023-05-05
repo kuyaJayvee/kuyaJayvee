@@ -20,3 +20,5 @@ Hi 👋, I'm Jayvee
 ---
 
 ![Jayvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuyaJayvee&show_icons=true&theme=synthwave)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuyaJayvee&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
