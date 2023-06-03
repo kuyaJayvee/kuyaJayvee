@@ -15,7 +15,7 @@ Hi 👋, I'm Jayvee
 
 ## 🔧 Technologies
 ---
-![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,vue,nuxtjs,bootstrap,mysql,md,git,github,stackoverflow,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,vue,bootstrap,mysql,md,git,github,stackoverflow,vscode&theme=light)
 
 ---
 
